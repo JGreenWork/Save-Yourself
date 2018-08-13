@@ -1,1 +1,5 @@
 # Save-Yourself
+
+This was my final project for Computing III at Middlesex Community College.  As such, there were some technical specs that I needed to adhere to with it (needed to demonstrate inheritance, polymorphism, needed to use at least one Enum, etc).  
+
+The premise is that you are a princess who's been captured by an evil wizard and imprisoned in a castle, guarded by a fiercesome dragon.  You have five months (twenty weeks) to find a way to Save Yourself before the wizard returns.  Each week, you can choose one action to perform.  Some weeks this will result in your base stats increasing, other weeks you'll receive an item/weapon/armor that will add to your stats for the final battle.  On certain weeks, you may experience changes in your character's status, which will affect which actions you can perform, or increase the benefit you get from certain activities.  At the end of the twenty weeks, you get to decide how you will ultimately try and escape.  Based on your stats and the choices you made, you will receive one of twenty-four different endings.  Can you outwit the wizard, conquer the dragon, and ultimately Save Yourself?
